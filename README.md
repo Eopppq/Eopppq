@@ -1,16 +1,16 @@
-## Hi there 👋
+### Boas vindas ao meu perfil
 
-<!--
-**Eopppq/Eopppq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Enzo Alacrino
 
-Here are some ideas to get you started:
+- Esto estudando na [Alura](www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo este espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato cmg!
+
+enzoalacrinosantos@gmail.com
+
+@nz7_a.santos
+
+![](https://tenor.com/pt-PT/view/miles-morales-spiderman-monty-tcgc-tcgc-tcgc-pride-gif-24364686)
+
