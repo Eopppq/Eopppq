@@ -11,6 +11,3 @@ Meu nome é Enzo Alacrino
 enzoalacrinosantos@gmail.com
 
 @nz7_a.santos
-
-![](https://tenor.com/pt-PT/view/miles-morales-spiderman-monty-tcgc-tcgc-tcgc-pride-gif-24364686)
-
